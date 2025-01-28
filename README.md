@@ -30,6 +30,7 @@
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-garcia-lopez-165b99197)
+[![Gmail](https://img.shields.io/badge/Email-Gmail-blue?style=flat-square&logo=gmail)](mailto:roy0123.rgl@gmail.com)
 
 <!--
 **rogarlop/rogarlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
