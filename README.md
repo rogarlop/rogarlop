@@ -1,6 +1,7 @@
 ## Rodrigo Garcia
 
 **Biomedical Engineer Since 2019**
+
 **Master's in Artificial Intelligence in Progress (2024-Now)**
 
 Knowledge in
