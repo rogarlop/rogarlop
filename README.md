@@ -30,12 +30,8 @@
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-garcia-lopez-165b99197)
-
-https://img.shields.io/badge/Contact_Me-Gmail-red
-
 [![Static Badge](https://img.shields.io/badge/Contact_Me-Gmail-red)](mailto:roy0123.rgl@gmail.com)
-
-[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoft-outlook)](mailto:rodrigogarlop23@outlook.com)
+[![Static Badge](https://img.shields.io/badge/Contact_Me-Outlook-blue)](mailto:rodrigogarlop23@outlook.com)
 <!--
 **rogarlop/rogarlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
