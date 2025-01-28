@@ -1,8 +1,8 @@
 ## Rodrigo Garcia
 
-- **Biomedical Engineer Since 2019**
+- ### **Biomedical Engineer Since 2019**
 
-- **Master's in Artificial Intelligence in Progress (2024-Now)**
+- ### **Master's in Artificial Intelligence in Progress (2024-Now)**
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) 
