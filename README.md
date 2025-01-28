@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="20">
 
 ### Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rodrigo-garcia-lopez-165b99197)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-garcia-lopez-165b99197)
 
 <!--
 **rogarlop/rogarlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
