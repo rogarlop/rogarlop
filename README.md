@@ -29,9 +29,9 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="20">
 
 ### Contact me
-[![Static Badge](https://img.shields.io/badge/Contact_Me-LinkedIn-deepskyblue)](https://www.linkedin.com/in/rodrigo-garcia-lopez-165b99197)
-[![Static Badge](https://img.shields.io/badge/Contact_Me-Gmail-red)](mailto:roy0123.rgl@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Contact_Me-Outlook-blue)](mailto:rodrigogarlop23@outlook.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-deepskyblue)](https://www.linkedin.com/in/rodrigo-garcia-lopez-165b99197)
+[![Static Badge](https://img.shields.io/badge/Gmail-red)](mailto:roy0123.rgl@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Outlook-blue)](mailto:rodrigogarlop23@outlook.com)
 <!--
 **rogarlop/rogarlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
