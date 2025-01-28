@@ -33,7 +33,7 @@
 
 [![Gmail](https://img.shields.io/badge/Email-Gmail-blue?style=flat-square&logo=gmail)](mailto:roy0123.rgl@gmail.com)
 
-[![Contact me](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoft-outlook)](mailto:rodrigogarlop23@outlook.com)
+[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoft-outlook)](mailto:rodrigogarlop23@outlook.com)
 <!--
 **rogarlop/rogarlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
